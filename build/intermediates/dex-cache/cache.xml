@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/gokul/MyApplication/app/build/intermediates/pre-dexed/debug/classes-98ab471429c42002c4c20d4011ec9e9fa0beabc1.jar"
+        jar="/home/gokul/MyApplication/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e"/>
+    <item
+        dex="/home/gokul/MyApplication/app/build/intermediates/pre-dexed/debug/classes-3eb73af0636f0dcb26ded3ae5cf4e9579a679af9.jar"
+        jar="/home/gokul/MyApplication/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/home/gokul/MyApplication/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-efcd560975a8576a1ee1bafb92f0d8015adc5d33.jar"
+        jar="/home/gokul/files/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
